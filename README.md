@@ -1,1 +1,1 @@
-# JavaLabWork
+# CoreJavaProgramming
